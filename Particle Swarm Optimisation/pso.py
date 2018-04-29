@@ -11,7 +11,6 @@ from sklearn.metrics import precision_recall_fscore_support
 # fix random seed for reproducibility
 seed = 7
 np.random.seed(seed)
-# load pima indians dataset
 dataset1 = np.loadtxt("train_1.csv", delimiter=",")
 dataset2 = np.loadtxt("test_1.csv", delimiter=",")
 # split into input (X) and output (Y) variables
@@ -20,8 +19,7 @@ Y = dataset1[:,6]
 x_test =dataset2[:,0:6]
 y_test = dataset2[:,6]
 
-#print (X.shape)
-#print (type(y_test))
+
 # create model
 model = Sequential()
 model.add(Dense(21, activation='relu', input_dim=X.shape[1]))
