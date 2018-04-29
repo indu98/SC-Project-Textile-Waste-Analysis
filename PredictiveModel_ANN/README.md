@@ -14,8 +14,10 @@ An Artificial Neural Network (ANN) is a computational model based on the structu
 
 ## Libraries Used
 Keras - A collection of high-level Neural Networks written in Python
+
 Numpy - Paackage fpr scientific computing using Python
 
 ## Run The Code
 The code is written in python and run with the standard command
+
 python filename.py
