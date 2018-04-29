@@ -1,1 +1,12 @@
-Screenshots
+ModelArchitecture_ANN show the architecture of our neural network, 
+that is the number of layers, the number of neurons per layer and so on.
+
+dia19.png - Output Screenshot for needle diameter = 23
+
+dia20.png - Output Screenshot for needle diameter = 23
+
+dia21.png - Output Screenshot for needle diameter = 23
+
+dia22.png - Output Screenshot for needle diameter = 23
+
+dia23.png - Output Screenshot for needle diameter = 23
