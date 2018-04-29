@@ -1,9 +1,9 @@
-##Particle Swarm Optimization
+## Particle Swarm Optimization
 
 Particle swarm optimization (PSO) is a population based stochastic optimization technique
 inspired by social behavior of bird flocking or fish schooling.
 
-#Python Libraries Used
+# Python Libraries Used
 
 1. PySwarms: PySwarms is a an extensible research toolkit for particle swarm optimization (PSO) in Python. It is intended for swarm intelligence researchers, practitioners, and students who would like a high-level declarative interface of implementing PSO in their problems.
 
@@ -12,7 +12,7 @@ inspired by social behavior of bird flocking or fish schooling.
 3. Sklearn: Scikit-learn (formerly scikits.learn) is a free software machine learning library for the Python programming language.
 
 
-#Running Of Code
+# Running Of Code
 
 Input datasets are provided to the code in the following lines:
 
